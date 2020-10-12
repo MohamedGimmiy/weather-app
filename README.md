@@ -5,7 +5,7 @@ a client side and a server side javascript node js and express Udacity project w
 
 ## Table of contents
 
-* Client side which is webside folder 
+* Client side which is website folder 
     - **app.js** file
     - **index.html** file
     - **style.css** file
@@ -15,7 +15,7 @@ a client side and a server side javascript node js and express Udacity project w
 
 ## How to install
 
-* First intall node js from [here]https://nodejs.org/en/)
+* First intall node js from [here](https://nodejs.org/en/)
 * Second run
     ```javascript
     $npm install cors
